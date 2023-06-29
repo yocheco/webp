@@ -1,7 +1,11 @@
 # webp
 
-~/webp-convert.sh ./min  
 
-    $ sudo apt install webp
+install webp
+    sudo apt install webp
+
+
+
+~/webp-convert.sh ./min  
 
 
