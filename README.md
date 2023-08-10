@@ -11,8 +11,6 @@ chmod +x ~/webp-convert.sh
 
 
 - In folder
-
-mkdir min
-~/webp-convert.sh ./min  
+~/webp-convert.sh .
 
 
